@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.Text.Json.Serialization;
 
-namespace disruptGrow_blazor.Client.Models
+namespace martinwestwood.Models
 {
     public class Business
     {
